@@ -1,0 +1,58 @@
+Raport Clienti cu mai mult de :5 comenzi si o o suma mai mare decat :5
+Raport Clienti cu mai mult de :2 comenzi si o o suma mai mare decat :5
+Clientul :0are mai mult de 2 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul :0are mai mult de 2 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul :0are mai mult de 2 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul :0are mai mult de 2 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul :0are mai mult de 2 comenzi si una din comenzi are valoare mai mare de : 5
+Raport Clienti cu mai mult de :2 comenzi si o o suma mai mare decat :5
+Clientul :0are mai mult de 2 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul :0are mai mult de 2 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul :0are mai mult de 2 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul :0are mai mult de 2 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul :0are mai mult de 2 comenzi si una din comenzi are valoare mai mare de : 5
+Raport Clienti cu mai mult de :3 comenzi si o o suma mai mare decat :5
+Clientul :0are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul :0are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul :0are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul :0are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul :0are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 5
+Raport Clienti cu mai mult de :1 comenzi si o o suma mai mare decat :0
+Clientul :0are mai mult de 1 comenzi si una din comenzi are valoare mai mare de : 0
+Clientul :0are mai mult de 1 comenzi si una din comenzi are valoare mai mare de : 0
+Clientul :0are mai mult de 1 comenzi si una din comenzi are valoare mai mare de : 0
+Clientul :1are mai mult de 1 comenzi si una din comenzi are valoare mai mare de : 0
+Clientul :2are mai mult de 1 comenzi si una din comenzi are valoare mai mare de : 0
+Clientul :0are mai mult de 1 comenzi si una din comenzi are valoare mai mare de : 0
+Clientul :0are mai mult de 1 comenzi si una din comenzi are valoare mai mare de : 0
+Raport Clienti cu mai mult de :1 comenzi si o o suma mai mare decat :2
+Raport Clienti cu mai mult de :1 comenzi si o o suma mai mare decat :0
+Raport Clienti cu mai mult de :1 comenzi si o o suma mai mare decat :0
+Raport Clienti cu mai mult de :1 comenzi si o o suma mai mare decat :0
+Clientul :2 are mai mult de 1 comenzi si una din comenzi are valoare mai mare de : 0
+Clientul :0 are mai mult de 1 comenzi si una din comenzi are valoare mai mare de : 0
+Clientul :1 are mai mult de 1 comenzi si una din comenzi are valoare mai mare de : 0
+Raport Clienti cu mai mult de : 3 comenzi si o o suma mai mare decat : 10
+Clientul : 2 are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 10
+Clientul : 0 are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 10
+Clientul : 1 are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 10
+Raport Clienti cu mai mult de : 3 comenzi si o o suma mai mare decat : 5
+Clientul : 0 are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul : 2 are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul : 1 are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 5
+Raport Clienti cu mai mult de : 3 comenzi si o o suma mai mare decat : 5
+Clientul : 2 are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul : 0 are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul : 0 are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul : 0 are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul : 0 are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul : 1 are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul : 0 are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 5
+Raport Clienti cu mai mult de : 3 comenzi si o o suma mai mare decat : 4
+Clientul : 0 are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 4
+Clientul : 2 are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 4
+Clientul : 1 are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 4
+Raport Clienti cu mai mult de : 3 comenzi si o o suma mai mare decat : 5
+Clientul : 0 are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul : 2 are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 5
+Clientul : 1 are mai mult de 3 comenzi si una din comenzi are valoare mai mare de : 5

@@ -1,0 +1,57 @@
+Raport Comenzi cuprinse intre data :2021-04-05T10:30si data :2021-05-22T05:30
+OrderID 1  ClientID 1Date 2021-05-21T10:30
+Raport Comenzi cuprinse intre data :10:30si data :15:30
+OrderID 1  ClientID 1Date 2021-05-21T10:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :11:30si data :15:30
+Raport Comenzi cuprinse intre data :10:00si data :15:00
+Raport Comenzi cuprinse intre data :00:00si data :23:00
+OrderID 1  ClientID 1Date 2021-06-13T02:00
+OrderID 3  ClientID 2Date 2021-06-13T12:00
+OrderID 5  ClientID 0Date 2021-10-13T20:00
+OrderID 2  ClientID 0Date 2021-06-13T20:00
+OrderID 4  ClientID 0Date 2021-06-15T20:00
+OrderID 0  ClientID 0Date 2021-05-13T12:00
+Raport Comenzi cuprinse intre data :00:00si data :23:00
+OrderID 3  ClientID 2Date 2021-06-13T12:00
+OrderID 5  ClientID 0Date 2021-10-13T20:00
+OrderID 1  ClientID 1Date 2021-06-13T02:00
+OrderID 4  ClientID 0Date 2021-06-15T20:00
+OrderID 0  ClientID 0Date 2021-05-13T12:00
+OrderID 2  ClientID 0Date 2021-06-13T20:00
+Raport Comenzi cuprinse intre data : 00:00 si data : 23:00
+OrderID 3  ClientID 2 Date 2021-06-13T12:00
+OrderID 2  ClientID 0 Date 2021-06-13T20:00
+OrderID 5  ClientID 0 Date 2021-10-13T20:00
+OrderID 4  ClientID 0 Date 2021-06-15T20:00
+OrderID 1  ClientID 1 Date 2021-06-13T02:00
+OrderID 0  ClientID 0 Date 2021-05-13T12:00
+Raport Comenzi cuprinse intre data : 00:00 si data : 15:00
+OrderID 0  ClientID 0 Date 2021-05-13T12:00
+OrderID 3  ClientID 2 Date 2021-06-13T12:00
+OrderID 1  ClientID 1 Date 2021-06-13T02:00
